@@ -1,0 +1,58 @@
+   .attribution {
+       font-size: 11px;
+       text-align: center;
+   }
+
+   .attribution a {
+       color: hsl(228, 45%, 44%);
+   }
+
+   body {
+       background: hsl(212, 45%, 89%);
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-items: center;
+       justify-content: center;
+       width: 1440px;
+       font-size: 15px;
+       font-family: 'Outfit', sans-serif;
+   }
+
+   img {
+       margin-top: 10px;
+       width: 270px;
+       border-radius: 10px;
+   }
+
+   html,
+   body {
+       height: 100%;
+   }
+
+   #p1 {
+       font-size: 23px;
+       font-weight: 700;
+   }
+
+   #p2 {
+       font-weight: 400;
+       font-size: 15px;
+       color: hsl(220, 15%, 55%);
+   }
+
+   .title {
+       width: 90%;
+       text-align: center;
+   }
+
+   .main {
+       border-radius: 10px;
+       background-color: hsl(0, 0%, 100%);
+       width: 290px;
+       border: 1px solid #eee;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-items: center;
+   }
